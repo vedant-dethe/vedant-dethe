@@ -1,52 +1,28 @@
-<div align="center">
+# Vedant Dethe
 
-# Hi, I'm Vedant Dethe 👋
+Third-semester student working with **C, Python, and Java**. My current work includes a movie-review emotion classifier and data structures and algorithms practice.
 
-### Student · Learning C, Python & Java
+## Selected work
 
-Building college projects and strengthening my programming fundamentals, one project at a time.
+### [Movie Emotion Classifier](https://github.com/vedant-dethe/movie-emotion-classifier)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+Classifies movie reviews into happy, sad, angry, or neutral using a **TF-IDF + LinearSVC** pipeline.
 
-</div>
+- **Two interfaces:** a Tkinter desktop application and a Streamlit web interface.
+- **Shared inference:** both interfaces call the same prediction backend.
+- **Training:** class balancing through resampling, with the vectorizer and classifier saved as one pipeline.
+- **Engineering notes:** architecture, model trade-offs, setup, and evaluation limitations are documented in the repository.
 
----
+[Read the technical overview and run locally →](https://github.com/vedant-dethe/movie-emotion-classifier#readme)
 
-## About me
+## Technical background
 
-- 🎓 Currently in my **3rd semester**.
-- 🌱 Learning **C, Python, and Java**.
-- 🧩 Practising **data structures and algorithms**.
-- 🛠️ Using college projects to turn classroom concepts into working applications.
-
-## Featured project
-
-### 🎬 [Movie Emotion Classifier](https://github.com/vedant-dethe/movie-emotion-classifier)
-
-A Python application that classifies movie reviews as **Happy, Sad, Angry, or Neutral**, with a Tkinter desktop interface.
-
-| Part | Technology |
+| Area | Current experience |
 | --- | --- |
-| Language | Python |
-| Text features | TF-IDF |
-| Classifier | Support Vector Machine (SVM) |
-| Interface | Tkinter |
+| Languages | C, Python, Java |
+| Python project tools | scikit-learn, pandas, Streamlit, Tkinter |
+| Fundamentals | Data structures, algorithms, object-oriented programming |
 
-[Explore the code and setup instructions →](https://github.com/vedant-dethe/movie-emotion-classifier#readme)
+## Current focus
 
-## What I'm learning
-
-- **C:** programming fundamentals and problem-solving.
-- **Python:** building applications and exploring machine learning.
-- **Java:** object-oriented programming.
-- **DSA:** practising algorithms and understanding data structures.
-
----
-
-<div align="center">
-
-**Learn. Build. Improve.**
-
-</div>
+Strengthening programming fundamentals and developing projects with clear documentation, reproducible setup, and meaningful evaluation.
