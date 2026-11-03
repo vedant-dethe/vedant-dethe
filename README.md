@@ -4,7 +4,7 @@ Third-semester student working with **C, Python, and Java**. My project work inc
 
 ## Selected work
 
-### Model Pruning Under an 8 GiB GPU Budget
+### [Model Pruning Under an 8 GiB GPU Budget](https://github.com/vedant-dethe/minitron-pruning-under-8gb)
 
 **Third-semester college group project**
 
